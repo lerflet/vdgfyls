@@ -1,11 +1,11 @@
 {
-    "name": "v2ray-heroku",
+    "name": "vdgfyls",
     "description": "deploy v2ray to heroku",
     "keywords": ["v2ray"],
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "ed74b58f-e8ce-4f15-bb28-8805c52268d9"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://111111.online",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://github.com/lerflet/vdgfyls",
     "stack": "container"
 }
